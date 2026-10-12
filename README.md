@@ -1,4 +1,3 @@
-# Power-BI-Dashboards
 # Power BI Dashboards Portfolio
 
 This repository showcases my data analytics and business intelligence projects built using **Microsoft Power BI**. It contains interactive dashboards designed to transform data into meaningful business insights and support data-driven decision-making.
